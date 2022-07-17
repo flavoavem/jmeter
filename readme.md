@@ -1,8 +1,8 @@
 # Test Runner
 - apache-jmeter-5.5/bin/jmeter.sh
-- File:Open:apache-jmeter-5.5/w3schools.jmx
 
 # Test Plan
+- File:Open: 'w3schools.jmx' in project root directory
 - Expand Tree: 'Test W3Schools CSS Animations'
 - Expand Tree: 'Thread Group' 
 - Expand Tree: 'CSS Animations'
