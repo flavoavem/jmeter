@@ -1,3 +1,8 @@
+# JMeter Install
+- Download JMeter
+- https://jmeter.apache.org/download_jmeter.cgi
+- https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.5.tgz
+- unpack: tar -xvf apache-jmeter-5.5.tgz 
 # Test Runner
 - apache-jmeter-5.5/bin/jmeter.sh
 
